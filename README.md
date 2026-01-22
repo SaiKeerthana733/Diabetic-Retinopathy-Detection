@@ -31,7 +31,11 @@ streamlit run app.py
 
 
 ## 📷 Screenrecord
+[🎥 Watch the app screen recording](screenrecord/app_screen_recording.mp4)
 
 ### Streamlit App
 ![App Screen recording](screenrecord/app_screen_recording.mp4)
+
+
+
 
