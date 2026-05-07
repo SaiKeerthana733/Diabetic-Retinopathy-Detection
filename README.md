@@ -25,9 +25,7 @@ Diabetic Retinopathy (DR) is a diabetes complication that can cause blindness. E
 
 # Run Streamlit app
 streamlit run app.py
-
-
-
+```
 
 ## 📷 Demo Video
 
