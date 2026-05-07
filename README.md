@@ -29,12 +29,12 @@ streamlit run app.py
 
 
 
+## 📷 Demo Video
 
-## 📷 Screenrecord
-[🎥 Watch the app screen recording](screenrecord/app_screen_recording.mp4)
+[🎥 Watch App Demo](https://github.com/user-attachments/assets/007dc01b-be64-467b-b112-454990cb649f)
 
-### Streamlit App
-![App Screen recording](screenrecord/app_screen_recording.mp4)
+
+
 
 
 
